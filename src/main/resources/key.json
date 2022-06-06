@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "named-enigma-347114",
+  "private_key_id": "3959fe6428d4d4e95c7ba07c31feacb82fc2e3ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYpW2jVyHkPMMi\nbkws38zIye3a4M3SBggT1lnsYQnNCxsKCsHOgKwXfozTK15tdQZWQcnoQmY4fyvk\nF4gb8zkXEaIHcOt5PcdIMHHQsjwIGmawrULN5ymWBafOhKvRwcPg731jF9ln9zuZ\nGXeeD2IY7Q0RuXTqpPZia6x7xM2vpPES0bX0kosNmeUsyTac+XfEdCqdBHhxmPMw\nswMfTDA1LzQj7z17uw0Tb093CCX0q1Ni+DwxlBJakflD4+ZWvmqGq1Z8OFcCZDWV\n+Gz7bRNMshvFrETZ/TzICLxiueR9KYZoXcywqv+Jj08kGZ0YIvosHZjaztVB2Znz\nixUpfZIjAgMBAAECggEAFLgTlyGrDH9A30oIVej0s2ZRPi3YUgMWkpa8Mu0C9w1k\nWKsYHk7xzOiU9c7DrOi++PNKFBf7Jvz/+KBHDcAoRhzTGN53X8gGZiKJOFIQ+uqW\neLGzyR3w05el7M6uQbTiwQPQyaQBku6IbOH7jf05i/eVGAxLtdO5S6egzFXss0Pi\n6mmwmTSxoHQCMN1ySy6UEHuV7HipKZGaitpg5AH59Eiq5/G2Tin1HDHNofE0Xqaq\n2Nmppxf3oWf99R7Ot46FVoRssJIHV+hl4LCbtfosxcZKslUi/JPeKHNs9SZvh9QN\nGLYW7ZBvL9z7uICZEDEeJ0JdKD5szOraQvLU7K8hoQKBgQDO/Hc4A+wXfkVTchMD\ne0hbEcH+LvuBMY/st+pq8HApZ+ZniknFilIADOPPYqb8ZJ5Ngh7mk0gJgkO14vdg\nShaOYHz5Y12fjKyVOqr1v5rOtQAQXC9WIQTvAzI/mIipI7nY7tFOFWN8KhmJTTBL\nIrIhDQufigQgYjQIluK9uameYQKBgQC8yt07mA+vZpchR9aHJaNgq9tUYyPP+aKZ\nW+gSPIEdt3Aa9glhcRQ7g1TXILdCSaSZkc7qoGT2+iGlWiORP4s2weivSfVwpuSZ\nYBSLZ67n/7bALmVeOBMlvjsSP9BB1NJ2WzJItta8rUlv3SWubjDKmym7p4OFetS3\nZglmqQYXAwKBgHmR1wPTaesygs1MBtbYpdq3R1VfiuCKl5nVO52rsnTfTXgqxMF9\nSEQ3TeYUbzd2cXPcpQGQJ5NOKy69K8YmPbFKAp0HO4nmOcc8OgU0kFwv+uWg/zx7\nEEbBfdXUZQ/Sp+k9+zj9Xv0iTPVTnLXEnxLCcr01ds7+XslctbfxQCqBAoGADsod\nlqOM5wK0aCkGh0PNjq8n2W6CybIWqMjoXzVaMAfEwnfvuDBxk0/wf4HSmWDHgjhH\n611xS1/A7wEmtCQ0Na/vGHxEu/R3CATc1ybiLs57dIat7jmaVmSWoBFbsSyI6Diw\nsb2RCOrSS+8ZGpcLP3P0Sv0OcpByxYM6zU4Eah0CgYAc0ed+NGQXh9h2nSgWl+WV\nsFl7+QzYo/z52E9cbbbUNy8LF9sS23eTCLe59ZsVQHCn6NQ/gbBS2RHf9Ab9nKrG\nDurEJUkTd2EEin1YtIPuYnC6I71KivwgtPXn+1Tj+DIL7s14RPujtiYWrFpsRAqG\nZnYaKblG1cW9UifN2R07wQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "postgresserviceaccount@named-enigma-347114.iam.gserviceaccount.com",
+  "client_id": "116483506993676654673",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/postgresserviceaccount%40named-enigma-347114.iam.gserviceaccount.com"
+}
