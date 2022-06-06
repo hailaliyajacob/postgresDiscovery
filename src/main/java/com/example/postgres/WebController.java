@@ -20,7 +20,7 @@ public class WebController {
     @GetMapping("/getOrderItems")
     public List<String> getTuples() {
         TcpConnectionPoolFactory.createConnectionPool();
-        return this.jdbcTemplate.queryForList("SELECT * FROM order_items").stream()
+        return this.jdbcTemplate.queryForList("SELECT * FROM employee").stream()
                 .map((m) -> m.values().toString())
                 .collect(Collectors.toList());
     }

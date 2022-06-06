@@ -16,7 +16,7 @@ public class TcpConnectionPoolFactory extends ConnectionPoolFactory {
     private static String DB_USER="postgres";
 
    // @Value("${DB_PORT}")
-    private static String DB_PORT="5000";
+    private static String DB_PORT="5432";
 
    // @Value("${DB_PASS}")
     private static String DB_PASS= "postgres";
@@ -25,7 +25,7 @@ public class TcpConnectionPoolFactory extends ConnectionPoolFactory {
     private static String DB_NAME="postgres";
 
     //@Value("${INSTANCE_HOST}")
-    private static String INSTANCE_HOST="127.0.0.1";
+    private static String INSTANCE_HOST="10.48.128.2";
 
 
  /*private static final String DB_USER = System.getenv("DB_USER");
