@@ -22,7 +22,7 @@ public class TcpConnectionPoolFactory extends ConnectionPoolFactory {
     private static String DB_PASS= "postgres";
 
     @Value("${DB_NAME}")
-    private static String DB_NAME="test";
+    private static String DB_NAME="postgres";
 
     //@Value("${INSTANCE_HOST}")
     private static String INSTANCE_HOST="10.48.128.2";
