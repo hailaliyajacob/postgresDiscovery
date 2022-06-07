@@ -2,7 +2,7 @@ package com.example.postgres;
 
 public  class Sql {
 
-    public static final String GET_SUMMARY = "SELECT"+
+    public static final String GET_SUMMARY = "SELECT "+
             "VEHICLEGROUP,QUOTEEFFECTIVEDATE,"+
             "DECODE (ROW_NUMBER() OVER (PARTITION BY BODYTYPE ORDER BY 1),1,BODYTYPE) BODYTYPE,"+
             "DECODE (ROW_NUMBER() OVER (PARTITION BY TRANSMISSION ORDER BY 1),1,TRANSMISSION) TRANSMISSION,"+
