@@ -1,3 +1,4 @@
+/*
 package com.example.postgres;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,4 +28,4 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter
                 .withUser("admin")
                 .password("{noop}admin");
     }
-}
+}*/
