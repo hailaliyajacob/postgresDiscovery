@@ -17,7 +17,7 @@ public class WebController {
         this.jdbcTemplate = jdbcTemplate;
     }
 
-    @GetMapping("/getOrderItems")
+    @GetMapping("/v1/getOrderItems")
     public List<String> getTuples() {
         TcpConnectionPoolFactory.createConnectionPool();
         return this.jdbcTemplate.queryForList(Sql.GET_SUMMARY).stream()
